@@ -1,6 +1,6 @@
 # AI Clone
 
-Welcome to the AI Clone project, where I've recreated an AI version of myself using my LinkedIn chat history as a foundation.
+Welcome to the AI Clone project, where I've recreated an AI version of myself using my LinkedIn chat history as a foundation. this was inspired by Krish Naik
 
 ## Project Overview
 
